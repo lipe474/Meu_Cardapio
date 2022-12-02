@@ -39,7 +39,7 @@ Use the commands in the **backend** folder to run in docker
         docker exec -it backend /bin/sh
         npx prisma migrate dev
 
-Use the `expo start` command in the **frontend** folder and after the command, use your mobile device with the ***Expo Go*** app or on a computer the ***Android Studio*** app to connect in the application
+Use the `expo start` command in the **frontend** folder and after the command, use your mobile device with the ***Expo Go*** app or on a computer the ***Android Studio*** app to connect in the application, or, use the ***W*** key in the terminal to start the project in a web browser
 
 
 ## Contributors
